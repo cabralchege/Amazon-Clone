@@ -14,7 +14,9 @@ function Home() {
         <div className="home__row">
         <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'  
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
@@ -22,7 +24,9 @@ function Home() {
 
            <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'   
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
@@ -32,14 +36,18 @@ function Home() {
         <div className="home__row">
           <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'  
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
           />
            <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'   
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
@@ -47,7 +55,9 @@ function Home() {
 
            <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'   
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
@@ -57,7 +67,9 @@ function Home() {
         <div className="home__row">
            <Product 
             id="49538094"
-            title='The lean startup'  
+            title='The Lean Startup: How Constant
+            Innovation Creates Radically Successful
+            Businesses Paperback'   
             price={29.99}
             image="https://images.unsplash.com/photo-1593642531955-b62e17bdaa9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" 
             rating={5}
