@@ -1,3 +1,30 @@
+#Project Name
+AMAZON CLONE
+##Author's Name
+CHEGE CABRAL
+Description
+The website is a clone for amazon
+Setup instructions
+Click on the pages live link
+This takes you to the trackers website
+Setup/ Installation Requirements
+Connect your computer or phone to the internet
+Click the websites link
+Contact Info
+Email: cabralowiro@gmail.com
+Phone Number: 0733315530/ 0798124775
+License
+MIT License Copyright (c) 2020 (Chege Cabral)
+GitHub license
+Technology Used
+HTML- Was used to display contents of the page
+CSS- Was used to style the page
+React- The javascript framework used for the whole of the project
+Technical Requirements
+An internet browser on your computer or phone
+Connection to the internet
+Project's Live Link
+https://covid-19tracker-9e5e0.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
